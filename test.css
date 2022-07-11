@@ -1,0 +1,15 @@
+h2  {
+    text-transform: unset ;
+ }
+
+ p strong {  
+    background-color: rgb(140, 200, 240);  
+    color: green;
+ } 
+
+strong { 
+    text-decoration: underline;
+    color: rgb(110, 65, 65);
+} 
+
+ 

@@ -1,15 +1,31 @@
-h2  {
-    text-transform: unset ;
- }
 
- p strong {  
-    background-color: rgb(140, 200, 240);  
-    color: green;
- } 
-
-strong { 
-    text-decoration: underline;
-    color: rgb(110, 65, 65);
-} 
 
  
+ 
+
+ a{
+    color: rgb(0, 153, 255);
+   }
+
+   p {
+    
+    width: 100px;
+   
+    height: auto;
+    
+    padding: 10px 20px 10px 20px;
+   
+    border: 5px solid black;
+  
+    margin: 20px 0 20px 0;
+    border : 5px solid rgb(255, 0, 200);  
+}
+  
+   H2 {
+    width : 200px;
+    height : 0.1em;
+    padding: 0.1em 0.1em 1em 1em;
+    border : 1px solid rgb(72, 255, 0);
+   }
+
+   
